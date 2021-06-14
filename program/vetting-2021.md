@@ -19,7 +19,7 @@
 ## Vetting Procedure, Suggestions
 
 1. Giving a score of 1-10 for proposals.
-2. You can skip any proposals for any reasons and keep the empty field, eg. you think you don't have expertise for the proposal topic, your own proposal, etc.
+2. You can skip any proposals for any reasons and keep the empty field, eg. you think you don't have expertise for the proposal topic, your own proposal, Chinese proposals, etc.
 3. Leaving your comments if any.
 4. Send your suggestions / comments to Sammy if any, sometimes we will consider an external speaker if you think someone is valuable asset to the conference.
 5. You may suggest other activities other than a talk session, eg. workshop, social gathering, hacking, development sprint, etc.
