@@ -34,3 +34,7 @@
 
 1. Sammy will accept proposals referring to the average score and comments, and consider the number of available slots and available resources.
 2. Some slots are reserved for sponsors and invited speakers.
+
+## After Conference
+
+Survey will be sent to members to collect comments and suggestions.
